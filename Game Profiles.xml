@@ -855,7 +855,6 @@
       <assignment contextid="Button8" macroguid="{5EE3B106-A5BD-4FB7-AE67-8C1A531C4C84}" backup="false" original="true" shiftstate="5"/>
       <assignment contextid="Button8" macroguid="{5EE3B106-A5BD-4FB7-AE67-8C1A531C4C84}" backup="false" original="true" shiftstate="6"/>
       <assignment contextid="Button9" macroguid="{39CEE02F-A3DB-4331-A560-2D3A3279F2FE}" backup="false" original="true" shiftstate="3"/>
-      <assignment contextid="Button9" macroguid="{2858335D-6273-4D79-8156-817B68E7213B}" backup="false" original="true" shiftstate="4"/>
       <assignment contextid="Button9" macroguid="{E65DEC7B-276F-4D3E-AE0F-8EA91DC98DDD}" backup="false" original="true" shiftstate="5"/>
       <assignment contextid="Button10" macroguid="{04748B33-7DF4-4B12-95AB-A5FCBF3AEDDA}" backup="false" original="true" shiftstate="3"/>
       <assignment contextid="Button10" macroguid="{0E889C58-D0C5-4586-9AEE-0BB680330A8D}" backup="false" original="true" shiftstate="4"/>
@@ -927,6 +926,8 @@
       <assignment contextid="Button11" macroguid="{0E8F9A5B-5E29-43AA-96DF-A34D00E88F7E}" backup="false" original="false" shiftstate="2"/>
       <assignment contextid="Button9" macroguid="{4A8ABB75-40FF-413B-B93B-901F5D0BC2F2}" backup="false" original="false" shiftstate="1"/>
       <assignment contextid="Button10" macroguid="{1F4CE6C6-07BD-4A8E-8B2F-F591B287B386}" backup="false" original="false" shiftstate="1"/>
+      <assignment contextid="Button9" macroguid="{2858335D-6273-4D79-8156-817B68E7213B}" backup="true" original="false" shiftstate="4"/>
+      <assignment contextid="Button9" macroguid="{1F4CE6C6-07BD-4A8E-8B2F-F591B287B386}" backup="false" original="false" shiftstate="4"/>
     </assignments>
     <assignments devicecategory="Logitech.Gaming.Spectrum.Headset">
       <assignment contextid="G1" macroguid="{03BDDB6B-ECD1-458D-A6DB-B8B7485C883E}" backup="false" original="false" shiftstate="1"/>
