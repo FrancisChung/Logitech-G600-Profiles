@@ -935,8 +935,8 @@
       <assignment contextid="G3" macroguid="{DEE17206-C390-4634-B595-92440B91C861}" backup="false" original="false" shiftstate="1"/>
     </assignments>
     <backlight devicemodel="Logitech.Gaming.Mouse.G600">
-      <mode color="#ff0000" shiftstate="1"/>
-      <mode color="#ffffff" shiftstate="2"/>
+      <mode color="#ffff00" shiftstate="1"/>
+      <mode color="#ff0000" shiftstate="2"/>
       <mode color="#00ff00" shiftstate="3"/>
     </backlight>
     <script>function OnEvent(event, arg)
