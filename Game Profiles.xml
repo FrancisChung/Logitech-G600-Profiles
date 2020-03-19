@@ -826,6 +826,24 @@
           <key value="W" direction="up"/>
         </multikey>
       </macro>
+      <macro color="4278246655" hidden="false" name="Outlining" guid="{95EA5F59-CA9B-4813-A524-D0F60B36E0C3}">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LCTRL" direction="down"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+        </multikey>
+      </macro>
+      <macro color="4278246655" hidden="false" name="Outline Defn" guid="{34F79BCA-0159-448E-857F-5C6C7D1C24A1}">
+        <multikey xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MultiKey">
+          <key value="LCTRL" direction="down"/>
+          <key value="M" direction="down"/>
+          <key value="M" direction="up"/>
+          <key value="O" direction="down"/>
+          <key value="O" direction="up"/>
+        </multikey>
+      </macro>
     </macros>
     <assignments devicecategory="Logitech.Gaming.Mouse.G600">
       <assignment contextid="Button1" macroguid="{9053E307-4E98-4E1C-B312-83F6B62FE516}" original="true" backup="false" shiftstate="1"/>
@@ -898,7 +916,6 @@
       <assignment contextid="Button16" macroguid="{F81EFF8C-E116-4DEC-B649-A1A32FC88CC3}" original="true" backup="false" shiftstate="3"/>
       <assignment contextid="Button16" macroguid="{97386CED-84F1-4B3B-B908-EBB102EB1B5E}" original="true" backup="false" shiftstate="4"/>
       <assignment contextid="Button16" macroguid="{2F87681F-037B-47B6-A7A1-AE9FD669B700}" original="true" backup="false" shiftstate="5"/>
-      <assignment contextid="Button17" macroguid="{97EF427C-FB6B-4F5B-8436-DB6CA79AA344}" original="true" backup="false" shiftstate="1"/>
       <assignment contextid="Button17" macroguid="{7F439F95-86F1-485D-ABD9-9E1624085357}" original="true" backup="false" shiftstate="2"/>
       <assignment contextid="Button17" macroguid="{335A81B1-32CE-4655-A1EF-2DCE9B008D95}" original="true" backup="false" shiftstate="3"/>
       <assignment contextid="Button17" macroguid="{1A2E5E81-FEAC-4B42-9A36-F3DD3D8BAF98}" original="true" backup="false" shiftstate="4"/>
@@ -948,6 +965,9 @@
       <assignment contextid="Button13" macroguid="{21FD80EE-7BFE-452F-98C9-F2FD3C16E47F}" original="false" backup="false" shiftstate="1"/>
       <assignment contextid="Button14" macroguid="{09E6A9F2-7E02-4127-AECA-3F51FE3146D8}" original="false" backup="true" shiftstate="1"/>
       <assignment contextid="Button14" macroguid="{77C7003F-F4C1-43DD-A632-A7936E4A4C8E}" original="false" backup="false" shiftstate="1"/>
+      <assignment contextid="Button16" macroguid="{95EA5F59-CA9B-4813-A524-D0F60B36E0C3}" original="false" backup="false" shiftstate="1"/>
+      <assignment contextid="Button17" macroguid="{97EF427C-FB6B-4F5B-8436-DB6CA79AA344}" original="false" backup="true" shiftstate="1"/>
+      <assignment contextid="Button17" macroguid="{34F79BCA-0159-448E-857F-5C6C7D1C24A1}" original="false" backup="false" shiftstate="1"/>
     </assignments>
     <assignments devicecategory="Logitech.Gaming.Spectrum.Headset">
       <assignment contextid="G1" macroguid="{03BDDB6B-ECD1-458D-A6DB-B8B7485C883E}" original="false" backup="false" shiftstate="1"/>
